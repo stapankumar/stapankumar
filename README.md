@@ -13,7 +13,7 @@
 </p>
 
 ### 👨‍💻 About me
-I am currently working as a Research Engineer at the **Centre for Development of Telematics (C-DOT)**.  My work involves handling IoT device data and protocols for machine-to-machine communication.
+I am currently working as a Research Engineer at the **Centre for Development of Telematics (C-DoT)**.  My work involves handling IoT device data and protocols for machine-to-machine communication.
 
 Outside of work, I enjoy web development, competitive programming, and solving mathematical problems.
 
