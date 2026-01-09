@@ -33,11 +33,24 @@ Outside of work, I enjoy web development, competitive programming, and solving m
 **Frameworks**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="36"/>
+  <img src="https://devicon-website.vercel.app/api/apache/original.svg" width="36"/>
+</p>
+
+**Data Formats**
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/json.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xml.svg" width="36"/>
 </p>
 
 **Databases**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
+</p>
+
+**Web Servers & Networking**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36"/>
 </p>
 
 **DevOps & Tools**
@@ -46,9 +59,11 @@ Outside of work, I enjoy web development, competitive programming, and solving m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fluentd.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="36"/>
 </p>
 
 **IoT & Messaging**
