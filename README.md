@@ -4,9 +4,9 @@
   <em>figuring things out through learning, building, breaking and fixing.</em>
 </p>
 
-
+<!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
 <img align="right" alt="Coding with Coffee" width="420"
-     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+     src="./programmer.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=stapankumar&label=Profile%20views&color=0e75b6&style=flat" />
