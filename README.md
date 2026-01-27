@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=stapankumar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-### 👨‍💻 About me
+### 👨‍💻 About Me
 I am currently working as a Research Engineer at the **Centre for Development of Telematics (C-DoT)**.  My work involves handling IoT device data and protocols for machine-to-machine communication.
 
 Outside of work, I enjoy web development, competitive programming, and solving mathematical problems.
@@ -78,7 +78,7 @@ Currently **Specialist** on Codeforces, 600+ problems solved.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="36"/>
 </p>
 
-### 📫 Reach me
+### 📫 Reach Me
 Always curious and open to new opportunities. Let's connect!
 - Email: stapankumar743@gmail.com
 
