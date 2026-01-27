@@ -5,7 +5,8 @@
 </p>
 
 <strong>Jump to:</strong>
-[About](#-about-me) | [Engineering](#-engineering-journey) | [Portfolio](#-portfolio-in-progress) | [CP](#-competitive-programming) | [Reach Me](#-reach-me)
+[About](#-about-me)&nbsp;&nbsp;&nbsp;[Engineering](#-engineering-journey)&nbsp;&nbsp;&nbsp;[Portfolio](#-portfolio-in-progress)&nbsp;&nbsp;&nbsp;[CP](#-competitive-programming)&nbsp;&nbsp;&nbsp;[Reach Me](#-reach-me)
+
 
 <!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
 <img align="right" alt="Coding with Coffee" width="420"
