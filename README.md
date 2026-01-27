@@ -4,6 +4,9 @@
   <em>figuring things out through learning, building, breaking and fixing.</em>
 </p>
 
+<strong>Jump to:</strong>
+[About](#-about-me) · [Engineering](#-engineering-journey) · [Portfolio](#-portfolio-in-progress) · [CP](#-competitive-programming) · [Reach Me](#-reach-me)
+
 <!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
 <img align="right" alt="Coding with Coffee" width="420"
      src="./programmer.gif" />
@@ -19,38 +22,46 @@ Outside of work, I enjoy web development, competitive programming, and solving m
 
 <br clear="right"/>
 
+### 🧭 Engineering Journey
+A concise snapshot of my professional experience, responsibilities, and technical exposure.
+[📄 View Resume](https://drive.google.com/file/d/1M3nBztcUvW8hPcJbWchkmId9cSym_0P9/view?usp=sharing)
+
+### 📂 Portfolio (In Progress)
+Showcasing some projects and hands-on work. 
+[Coming soon...](https://stapankumar.github.io/html-portfolio/)
+
+### 🏆 Competitive Programming
+I practice CP to sharpen problem-solving and algorithmic thinking.
+Currently **Specialist** on Codeforces, 600+ problems solved. 
+[Profile](https://codeforces.com/profile/s_tapan099)
+
+
 ### ⚙️ Tech Stack
 
-**Languages**
+**Languages & Frameworks**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36"/>
-</p>
-
-**Frameworks**
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="36"/>
   <img src="https://devicon-website.vercel.app/api/apache/original.svg" width="36"/>
 </p>
 
-**Data Formats**
+**Data Formats & Databases**
 <p>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/json.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xml.svg" width="36"/>
-</p>
-
-**Databases**
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
 </p>
 
-**Web Servers & Networking**
+**Web Servers & Networking, IoT & Messaging**
 <p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wildfly.png" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mqtt.svg" width="36"/>
 </p>
 
 **DevOps & Tools**
@@ -65,12 +76,6 @@ Outside of work, I enjoy web development, competitive programming, and solving m
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fluentd.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="36"/>
 </p>
-
-**IoT & Messaging**
-<p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mqtt.svg" width="36"/>
-</p>
-
 
 ### 📫 Reach me
 Always curious and open to new opportunities. Let's connect!
