@@ -29,7 +29,7 @@ A concise snapshot of my professional experience, responsibilities, and technica
 
 ### 📂 Portfolio (In Progress)
 Showcasing some projects and hands-on work. 
-[Coming soon...](https://stapankumar.github.io/html-portfolio/)
+[Coming soon...](https://stapankumar.github.io/website/)
 
 ### 🏆 Competitive Programming
 I practice CP to sharpen problem-solving and algorithmic thinking.
