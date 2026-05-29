@@ -25,7 +25,7 @@ Outside of work, I enjoy web development, competitive programming, and solving m
 
 ### 🧭 Engineering Journey
 A concise snapshot of my professional experience, responsibilities, and technical exposure.
-[📄 View Resume](https://drive.google.com/file/d/1ujA5Ue5nSRvbpEPBsSRYZGt3XGjrZROl/view?usp=sharing)
+[📄 View Resume](https://drive.google.com/file/d/1CxZsd_LrYRsX9vt1yMfFVfG7nhR3apWI/view?usp=sharing)
 
 ### 📂 Portfolio (In Progress)
 Showcasing some projects and hands-on work. 
